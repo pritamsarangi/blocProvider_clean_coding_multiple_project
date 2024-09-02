@@ -1,8 +1,6 @@
 package com.example.blocprovider_clean_coding
 
-class MainActivity: FlutterActivity() {
-}
+import io.flutter.embedding.android.FlutterActivity
 
-open class FlutterActivity {
+class MainActivity: FlutterActivity() {}
 
-}
